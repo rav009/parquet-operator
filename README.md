@@ -1,2 +1,6 @@
 # parquet-converter
-a parquet handler library to convert large parquet to small ones
+#### What is Parquet?
+Parquet is high-ratio compressed file format wildely used in bigdata systems.
+
+#### Features of this repo
+This repo is a parquet handler library which features the function like convert big parquet to small ones so you can use pandas to convert the small parquets to csv files.
