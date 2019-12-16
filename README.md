@@ -8,4 +8,4 @@ This repo is a parquet handler library which features the function like convert 
 #### Requirements
 python2.7+
 
-`pip install pandas`
+`pip install pandas pyarrow`
