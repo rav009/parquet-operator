@@ -1,4 +1,4 @@
-# parquet-converter
+# parquet-operator
 #### What is Parquet?
 Parquet is high-ratio compressed file format wildely used in bigdata systems.
 
