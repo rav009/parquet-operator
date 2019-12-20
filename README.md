@@ -6,6 +6,6 @@ Parquet is high-ratio compressed file format wildely used in bigdata systems.
 This repo is a parquet handler library which features the function like convert big parquet to small ones so you can use pandas to convert the small parquets to csv files.
 
 #### Requirements
-python2.7+
+python3.5
 
 `pip install pandas pyarrow`
