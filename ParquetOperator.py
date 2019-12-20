@@ -65,6 +65,8 @@ class ParquetOperator:
         j = 0
         while con:
             j += 1
+            if j % 10000 == 0:
+                print("Merge Row Number: %d" % j)
             if j > linelimit:
                 break
             mline = ""
